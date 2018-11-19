@@ -1,42 +1,15 @@
 ---
-title: 'Chapter Title Here'
-description: 'Chapter description goes here.'
+title: 'Introduction to Financial Formulas in Google Sheets'
+description: 'An introduction to the required formulas and variables to create a loan amortization table.'
 ---
 
-## Example coding exercise
+## Insert exercise title here
 
 ```yaml
-type: NormalExercise
-key: 2bafef99a3
-lang: r
-xp: 100
-skills: 1
+type: VideoExercise
+key: 70bf8e2335
+xp: 50
 ```
 
-This is an example exercise.
-
-`@instructions`
-
-
-`@hint`
-
-
-`@pre_exercise_code`
-```{r}
-
-```
-
-`@sample_code`
-```{r}
-
-```
-
-`@solution`
-```{r}
-
-```
-
-`@sct`
-```{r}
-
-```
+`@projector_key`
+ce7197a0bb6fd0344b90e58e380a3546
