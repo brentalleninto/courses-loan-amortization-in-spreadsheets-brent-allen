@@ -3,7 +3,7 @@ title: 'Introduction to Financial Formulas in Google Sheets'
 description: 'An introduction to the required formulas and variables to create a loan amortization table.'
 ---
 
-## Insert exercise title here
+## Required Variables for an Amortization Schedule
 
 ```yaml
 type: VideoExercise
