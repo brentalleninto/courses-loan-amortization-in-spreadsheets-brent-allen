@@ -13,3 +13,16 @@ xp: 50
 
 `@projector_key`
 ce7197a0bb6fd0344b90e58e380a3546
+
+---
+
+## The Payment Function
+
+```yaml
+type: VideoExercise
+key: 0475be4cd9
+xp: 50
+```
+
+`@projector_key`
+1856d0202a99dc94345d5f199ae5cac6
